@@ -4,17 +4,16 @@
 <p align="center">
   <img loading="lazy" src="http://img.shields.io/static/v1?label=CURSO&message=MOBILE-FIRST&color=GREEN&style=for-the-badge"/>
 </p>
-# Índice 
+<p>Site AluraBooks desenvolvido no curso mobile first da alura</p>
 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Badges](#badges)
-* [Índice](#índice)
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
+# :hammer: Funcionalidades do projeto
+
+- `Funcionalidade 1`: Possui um layout responsivo para telas de 1728px, 1024px e menores
+- `Funcionalidade 2`: Apresenta uma seção de livros no formato carrosel 
+- `Funcionalidade 3`: É totalmente construido com HTML e CSS
+
+https://github.com/Kaiki098/mobile-first/assets/127666620/80eae7bb-ae84-409c-a7b6-7ccf07df284d
+
+https://github.com/Kaiki098/mobile-first/assets/127666620/fd498042-ac8b-4007-8516-6e6de4944999
+
+https://github.com/Kaiki098/mobile-first/assets/127666620/12cc0c98-5849-430f-ab3f-e237b33333c6
