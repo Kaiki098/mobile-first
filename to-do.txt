@@ -1,2 +1,0 @@
--Melhorar responsividade
--Melhorar disposição da seção carrosel
